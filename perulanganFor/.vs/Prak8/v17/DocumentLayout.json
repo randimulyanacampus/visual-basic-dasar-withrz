@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\Prak8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22BF0B03-0A41-4BC9-A76F-086A64463D03}|Prak8\\Prak8.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\prak8\\prak8\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22BF0B03-0A41-4BC9-A76F-086A64463D03}|Prak8\\Prak8.vbproj|solutionrelative:prak8\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BF0B03-0A41-4BC9-A76F-086A64463D03}|Prak8\\Prak8.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\prak8\\prak8\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22BF0B03-0A41-4BC9-A76F-086A64463D03}|Prak8\\Prak8.vbproj|solutionrelative:prak8\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\Prak8\\Prak8\\Form1.vb",
+              "RelativeDocumentMoniker": "Prak8\\Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\Prak8\\Prak8\\Form1.vb [Design]",
+              "RelativeToolTip": "Prak8\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T10:30:50.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\Prak8\\Prak8\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Prak8\\Form1.Designer.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\Prak8\\Prak8\\Form1.Designer.vb",
+              "RelativeToolTip": "Prak8\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T10:27:58.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

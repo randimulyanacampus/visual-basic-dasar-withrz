@@ -1,0 +1,16 @@
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\bin\Debug\net8.0-windows\Prak8.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\bin\Debug\net8.0-windows\Prak8.deps.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\bin\Debug\net8.0-windows\Prak8.runtimeconfig.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\bin\Debug\net8.0-windows\Prak8.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\bin\Debug\net8.0-windows\Prak8.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.Form1.resources
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.vbproj.GenerateResource.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.AssemblyInfoInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.AssemblyInfo.vb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.vbproj.CoreCompileInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\refint\Prak8.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\Prak8.genruntimeconfig.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Prak8\Prak8\obj\Debug\net8.0-windows\ref\Prak8.dll

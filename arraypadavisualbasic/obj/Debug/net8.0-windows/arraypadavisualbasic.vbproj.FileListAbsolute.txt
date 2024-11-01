@@ -1,0 +1,17 @@
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\bin\Debug\net8.0-windows\arraypadavisualbasic.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\bin\Debug\net8.0-windows\arraypadavisualbasic.deps.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\bin\Debug\net8.0-windows\arraypadavisualbasic.runtimeconfig.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\bin\Debug\net8.0-windows\arraypadavisualbasic.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\bin\Debug\net8.0-windows\arraypadavisualbasic.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.Form1.resources
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.vbproj.GenerateResource.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.AssemblyInfoInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.AssemblyInfo.vb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.vbproj.CoreCompileInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\refint\arraypadavisualbasic.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.genruntimeconfig.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\ref\arraypadavisualbasic.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\arraypadavisualbasic\obj\Debug\net8.0-windows\arraypadavisualbasic.Form2.resources

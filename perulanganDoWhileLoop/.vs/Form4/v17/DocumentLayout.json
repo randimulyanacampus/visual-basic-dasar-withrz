@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\perulanganDoWhileLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9897557-551A-40E7-BEDC-88B940FCC22F}|Form4.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\perulangandowhileloop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B9897557-551A-40E7-BEDC-88B940FCC22F}|Form4.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9897557-551A-40E7-BEDC-88B940FCC22F}|Form4.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\perulangandowhileloop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B9897557-551A-40E7-BEDC-88B940FCC22F}|Form4.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\perulanganDoWhileLoop\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\perulanganDoWhileLoop\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T04:04:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\perulanganDoWhileLoop\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\perulanganDoWhileLoop\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T04:02:27.779Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

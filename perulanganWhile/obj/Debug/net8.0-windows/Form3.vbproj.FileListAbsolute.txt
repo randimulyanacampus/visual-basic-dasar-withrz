@@ -1,0 +1,16 @@
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\bin\Debug\net8.0-windows\Form3.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\bin\Debug\net8.0-windows\Form3.deps.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\bin\Debug\net8.0-windows\Form3.runtimeconfig.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\bin\Debug\net8.0-windows\Form3.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\bin\Debug\net8.0-windows\Form3.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.Form1.resources
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.vbproj.GenerateResource.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.AssemblyInfoInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.AssemblyInfo.vb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.vbproj.CoreCompileInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\refint\Form3.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\Form3.genruntimeconfig.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\Form3\obj\Debug\net8.0-windows\ref\Form3.dll

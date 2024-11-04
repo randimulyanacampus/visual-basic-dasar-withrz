@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PencabanganBersarang(NESTEDIF)/1.0.0": {
+        "runtime": {
+          "PencabanganBersarang(NESTEDIF).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PencabanganBersarang(NESTEDIF)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\proceduredanfunction\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B330E8A4-202E-4FDA-A2F2-3A84FFF9ACBD}|ProceduredanFunction.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:35:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:35:42.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:34:00.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "Form2.Designer.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form2.Designer.vb",
+              "RelativeToolTip": "Form2.Designer.vb",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAmwMMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:29:49.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:29:43.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:26:07.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T18:05:09.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\ProceduredanFunction\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T17:53:17.455Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

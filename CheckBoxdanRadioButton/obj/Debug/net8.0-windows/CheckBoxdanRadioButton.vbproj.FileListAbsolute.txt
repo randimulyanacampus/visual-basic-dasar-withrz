@@ -1,0 +1,17 @@
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.Form1.resources
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.vbproj.GenerateResource.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.AssemblyInfoInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.AssemblyInfo.vb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.vbproj.CoreCompileInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.sourcelink.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\bin\Debug\net8.0-windows\CheckBoxdanRadioButton.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\bin\Debug\net8.0-windows\CheckBoxdanRadioButton.deps.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\bin\Debug\net8.0-windows\CheckBoxdanRadioButton.runtimeconfig.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\bin\Debug\net8.0-windows\CheckBoxdanRadioButton.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\bin\Debug\net8.0-windows\CheckBoxdanRadioButton.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\refint\CheckBoxdanRadioButton.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\CheckBoxdanRadioButton.genruntimeconfig.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\CheckBoxdanRadioButton\obj\Debug\net8.0-windows\ref\CheckBoxdanRadioButton.dll

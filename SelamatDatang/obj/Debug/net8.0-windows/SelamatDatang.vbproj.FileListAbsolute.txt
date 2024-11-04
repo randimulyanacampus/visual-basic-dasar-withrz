@@ -1,0 +1,17 @@
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\bin\Debug\net8.0-windows\SelamatDatang.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\bin\Debug\net8.0-windows\SelamatDatang.deps.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\bin\Debug\net8.0-windows\SelamatDatang.runtimeconfig.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\bin\Debug\net8.0-windows\SelamatDatang.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\bin\Debug\net8.0-windows\SelamatDatang.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.Form1.resources
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.vbproj.GenerateResource.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.AssemblyInfoInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.AssemblyInfo.vb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.vbproj.CoreCompileInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.sourcelink.json
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\refint\SelamatDatang.dll
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\SelamatDatang.genruntimeconfig.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\SelamatDatang\obj\Debug\net8.0-windows\ref\SelamatDatang.dll

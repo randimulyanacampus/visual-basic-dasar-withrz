@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\MembuatAplikasiConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65991509-CAA7-4212-A484-6E3995719398}|MembuatAplikasiConsole.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\membuataplikasiconsole\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65991509-CAA7-4212-A484-6E3995719398}|MembuatAplikasiConsole.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\MembuatAplikasiConsole\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\MembuatAplikasiConsole\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T21:34:00.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

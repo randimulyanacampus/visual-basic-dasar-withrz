@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\TIPEDATAVARIABELKONSTANTADANOPERATOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94381BA-886C-475B-9BD7-5C41382E3338}|TIPEDATAVARIABELKONSTANTADANOPERATOR.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\tipedatavariabelkonstantadanoperator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F94381BA-886C-475B-9BD7-5C41382E3338}|TIPEDATAVARIABELKONSTANTADANOPERATOR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94381BA-886C-475B-9BD7-5C41382E3338}|TIPEDATAVARIABELKONSTANTADANOPERATOR.vbproj|d:\\coding journey\\visual basic\\modul-praktikum-perkuliahan\\tipedatavariabelkonstantadanoperator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F94381BA-886C-475B-9BD7-5C41382E3338}|TIPEDATAVARIABELKONSTANTADANOPERATOR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\TIPEDATAVARIABELKONSTANTADANOPERATOR\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\TIPEDATAVARIABELKONSTANTADANOPERATOR\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T22:05:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\TIPEDATAVARIABELKONSTANTADANOPERATOR\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\CODING JOURNEY\\Visual Basic\\modul-praktikum-perkuliahan\\TIPEDATAVARIABELKONSTANTADANOPERATOR\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T22:00:26.445Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

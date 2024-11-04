@@ -1,0 +1,11 @@
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\bin\Debug\MembuatAplikasiConsole.exe.config
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\bin\Debug\MembuatAplikasiConsole.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\bin\Debug\MembuatAplikasiConsole.pdb
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\bin\Debug\MembuatAplikasiConsole.xml
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.vbproj.AssemblyReference.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.Resources.resources
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.vbproj.GenerateResource.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.vbproj.CoreCompileInputs.cache
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.exe
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.xml
+D:\CODING JOURNEY\Visual Basic\modul-praktikum-perkuliahan\MembuatAplikasiConsole\obj\Debug\MembuatAplikasiConsole.pdb
